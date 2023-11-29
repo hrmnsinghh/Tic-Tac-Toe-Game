@@ -12,16 +12,17 @@ This is a simple implementation of the classic Tic Tac Toe game.
 
 ## Screenshots
 
-[Include screenshots here if desired]
-
+              
 ## Project Structure
 
 - `index.html`: Main HTML file.
-- `styles.css`: CSS styles.
-- `script.js`: JavaScript logic for the game.
+- `tic.css`: CSS styles.
+- `tic.js`: JavaScript logic for the game.
 
 ## Author
 
-[Your Name]
+Harmanpreet Singh
 
-Feel free to customize this to better suit your project.
+
+
+
